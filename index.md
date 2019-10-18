@@ -1,20 +1,16 @@
 ---
 
 layout: col-sidebar
-title: OWASP dependency track
-tags: example-tag
+title: OWASP Dependency-Track
+tags: sca scrm sbom bom component-analysis supply-chain cpe purl license vulnerability impact
 level: 4
 type: tool
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+Dependency-Track is an intelligent [Supply Chain Component Analysis](https://www.owasp.org/index.php/Component_Analysis) platform that allows organizations to identify and reduce risk from the use of third-party and open source components. Dependency-Track takes a unique and highly beneficial approach by leveraging the capabilities of [Software Bill-of-Materials](https://www.owasp.org/index.php/Component_Analysis#Software_Bill-of-Materials_.28SBOM.29) (SBOM). This approach provides capabilities that traditional Software Composition Analysis (SCA) solutions cannot achieve.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+Dependency-Track monitors component usage across all versions of every application in its portfolio in order to proactively identify risk across an organization. The platform has an API-first design and is ideal for use in Continuous Integration (CI) and Continuous Delivery (CD) environments.
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
-
+![Screenshot](https://raw.githubusercontent.com/DependencyTrack/dependency-track/master/docs/images/screenshots/dashboard.png)
