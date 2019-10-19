@@ -3,7 +3,7 @@ title: Features
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: dependency-track dtrack
 ---
 
 ## Features
