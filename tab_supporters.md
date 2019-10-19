@@ -3,7 +3,7 @@
 title: Supporters
 displaytext: Our Supporters
 layout: null
-order: 2
+order: 4
 tab: true
 tags: dependency-track dtrack
 
