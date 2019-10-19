@@ -16,7 +16,7 @@
 
 * [Documentation](https://docs.dependencytrack.org/)
 * [GitHub](https://github.com/DependencyTrack)
-* [Slack](https://dependencytrack.org/slack) [invite](https://dependencytrack.org/slack/invite)
+* [Slack](https://dependencytrack.org/slack) ([invite](https://dependencytrack.org/slack/invite))
 * [Twitter](https://twitter.com/dependencytrack)
 * [Website](https://dependencytrack.org/)
 * [YouTube](https://www.youtube.com/channel/UC8xdttysl3gNAQYvk1J9Efg)
