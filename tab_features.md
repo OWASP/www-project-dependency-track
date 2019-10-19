@@ -1,9 +1,11 @@
 ---
+
 title: Features
-layout:  null
-tab: true
+layout: null
 order: 1
+tab: true
 tags: dependency-track dtrack
+
 ---
 
 ## Features
