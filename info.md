@@ -2,10 +2,11 @@
 
 ![Flagship Project](assets/images/mature_projects.png)
 
-![Builders](assets/images/owasp_builders_small.png)
-![Defenders](assets/images/owasp_defenders_small.png)
+![Builders](assets/images/owasp_builders.svg)
+![Defenders](assets/images/owasp_defenders.svg)
+![Defenders](assets/images/owasp_breakers.svg)
 
-![Tool Project](assets/images/owasp_tool_project.jpg)
+![Tool Project](assets/images/owasp_tool_project.svg)
 
 ### Downloads
 
