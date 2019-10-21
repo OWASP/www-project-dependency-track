@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="170px" height="170px" viewBox="0 0 170 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Labs" transform="matrix(0.318377,0,0,0.318377,0,0)">
+        <g id="Circle" transform="matrix(1,0,0,1,140.681,85.6961)">
+            <circle cx="126.297" cy="181.283" r="264.979" style="fill:url(#_Radial1);stroke:#c0c0c0;stroke-width:4px;"/>
+        </g>
+        <g id="Beaker" transform="matrix(1,0,0,1,11,0)">
+            <g transform="matrix(0.791068,0,0,0.791068,53.4866,53.4866)">
+                <path d="M345.052,336.968L166.949,336.968C153.216,336.968 144.634,322.067 151.49,310.193L174.601,270.16L174.601,101.327C174.601,91.469 182.593,83.476 192.452,83.476L319.55,83.476C329.408,83.476 337.401,91.468 337.401,101.327L337.401,270.16L360.512,310.193C367.377,322.084 358.767,336.968 345.052,336.968Z" style="fill:#fff5b7;fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(0.791068,0,0,0.791068,53.4866,53.4866)">
+                <path d="M429.582,429.802L360.512,310.19C360.507,310.183 360.503,310.176 360.498,310.167L355.359,301.265L156.644,301.265L151.505,310.167C151.5,310.174 151.495,310.181 151.491,310.19L82.416,429.809C61.348,466.334 87.661,512 129.879,512L382.123,512C424.362,512 450.647,466.324 429.582,429.802Z" style="fill:#fffaed;fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(0.791068,0,0,0.791068,53.4866,53.4866)">
+                <path d="M348.692,119.176L163.31,119.176C153.452,119.176 145.459,111.184 145.459,101.325C145.459,91.466 153.451,83.474 163.31,83.474L348.692,83.474C358.55,83.474 366.543,91.466 366.543,101.325C366.543,111.184 358.55,119.176 348.692,119.176Z" style="fill:#fff5b7;fill-rule:nonzero;"/>
+            </g>
+        </g>
+        <g id="Bubbles" transform="matrix(1,0,0,1,11,0)">
+            <g transform="matrix(0.791068,0,0,0.791068,84.9009,82.0203)">
+                <circle cx="213.28" cy="30.025" r="15.471" style="fill:#cacee2;"/>
+            </g>
+            <g transform="matrix(0.791068,0,0,0.791068,133.228,1.98707)">
+                <circle cx="185.123" cy="415.743" r="15.471" style="fill:#d7ce47;"/>
+            </g>
+            <g transform="matrix(0.791068,0,0,0.791068,86.5076,81.8397)">
+                <circle cx="256.003" cy="415.743" r="30.025" style="fill:#efeb97;"/>
+            </g>
+            <g transform="matrix(0.791068,0,0,0.791068,53.4866,53.4866)">
+                <circle cx="296.06" cy="30.025" r="30.025" style="fill:#efeb97;"/>
+            </g>
+            <g transform="matrix(0.791068,0,0,0.791068,-10.5273,39.5937)">
+                <circle cx="326.882" cy="415.743" r="15.471" style="fill:#cacee2;"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(529.958,0,0,529.958,-138.681,181.283)"><stop offset="0" style="stop-color:#eeea8d;stop-opacity:1"/><stop offset="1" style="stop-color:#dcd74c;stop-opacity:1"/></radialGradient>
+    </defs>
+</svg>
