@@ -1,11 +1,11 @@
 ### Project Classification
 
-![Flagship Project](assets/images/owasp_level_flagship.svg)
+![Flagship Project](/assets/images/common/owasp_level_flagship.svg)
 
-![Builders](assets/images/owasp_builders.svg)
-![Defenders](assets/images/owasp_defenders.svg)
+![Builders](/assets/images/common/owasp_builders.svg)
+![Defenders](assets/images/common/owasp_defenders.svg)
 
-![Tool Project](assets/images/owasp_tool_project.svg)
+![Tool Project](/assets/images/common/owasp_tool_project.svg)
 
 ### Downloads
 
