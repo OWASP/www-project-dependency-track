@@ -1,6 +1,6 @@
 ### Project Classification
 
-![Flagship Project](/assets/images/common/owasp_level_flagship.svg)
+![Flagship Project](/assets/images/common/owasp_level_flagship.svg "Flagship Project")
 
 ![Builders](/assets/images/common/owasp_builders.svg)
 ![Defenders](assets/images/common/owasp_defenders.svg)
