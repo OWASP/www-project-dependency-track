@@ -6,6 +6,7 @@ site_side: true
 tags: dependency-track dtrack sca scrm sbom bom component-analysis supply-chain cpe purl license vulnerability impact
 level: 4
 type: tool
+pitch: Intelligent Supply Chain Component Analysis platform that allows organizations to identify and reduce risk from the use of third-party and open source components.
 
 ---
 
