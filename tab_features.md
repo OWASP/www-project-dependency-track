@@ -25,11 +25,12 @@ tags: dependency-track dtrack
   * [VulnDB] from [Risk Based Security]
   * More coming soon.
 * Ecosystem agnostic with built-in repository support for:
-  * Ruby Gems
-  * Maven
-  * NPM
-  * NuGet
-  * Python (Pypi)
+  * Hex (Erlang/Elixir)
+  * Gems (Ruby)
+  * Maven (Java)
+  * NPM (Javascript)
+  * NuGet (.NET)
+  * Pypi (Python)
   * More coming soon.  
 * Includes a comprehensive auditing workflow for triaging results
 * Configurable notifications supporting Slack, Microsoft Teams, Webhooks, and Email
