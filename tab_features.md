@@ -25,8 +25,8 @@ tags: dependency-track dtrack
   * [VulnDB] from [Risk Based Security]
   * More coming soon.
 * Ecosystem agnostic with built-in repository support for:
-  * Hex (Erlang/Elixir)
   * Gems (Ruby)
+  * Hex (Erlang/Elixir)
   * Maven (Java)
   * NPM (Javascript)
   * NuGet (.NET)
