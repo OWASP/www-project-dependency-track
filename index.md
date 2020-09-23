@@ -12,6 +12,8 @@ pitch: Intelligent Supply Chain Component Analysis platform that allows organiza
 
 Dependency-Track is an intelligent [Supply Chain Component Analysis](https://www.owasp.org/index.php/Component_Analysis) platform that allows organizations to identify and reduce risk from the use of third-party and open source components. Dependency-Track takes a unique and highly beneficial approach by leveraging the capabilities of [Software Bill-of-Materials](https://www.owasp.org/index.php/Component_Analysis#Software_Bill-of-Materials_.28SBOM.29) (SBOM). This approach provides capabilities that traditional Software Composition Analysis (SCA) solutions cannot achieve.
 
+<iframe width="100%" src="https://www.youtube.com/embed/cQuk6jKTrTs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Dependency-Track monitors component usage across all versions of every application in its portfolio in order to proactively identify risk across an organization. The platform has an API-first design and is ideal for use in Continuous Integration (CI) and Continuous Delivery (CD) environments.
 
 ![Screenshot](https://raw.githubusercontent.com/DependencyTrack/dependency-track/master/docs/images/screenshots/dashboard.png)
