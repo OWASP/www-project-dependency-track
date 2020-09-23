@@ -1,6 +1,6 @@
 ---
 
-title: SBOM Format Support
+title: SBOM Support
 layout: null
 order: 3
 tab: true
