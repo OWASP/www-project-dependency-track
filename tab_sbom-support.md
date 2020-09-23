@@ -12,5 +12,5 @@ tags: dependency-track dtrack
 
 Dependency-Track supports the following Software Bill of Material (SBOM) formats:
 
-- CycloneDX 1.0 and higher (preferred format)
-- SPDX v2.0 and higher (v2.2 and higher required for security use cases)
+- [CycloneDX](https://cyclonedx.org) 1.0 and higher (preferred format)
+- [SPDX](https://spdx.org) v2.0 and higher (v2.2 and higher required for security use cases)
