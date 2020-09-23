@@ -1,6 +1,6 @@
 ---
 
-title: SBOM Support
+title: SBOM
 displaytext: SBOM Support
 layout: null
 order: 3
