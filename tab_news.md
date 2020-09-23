@@ -10,6 +10,7 @@ tags: dependency-track dtrack
 
 ## News
 
+* 2020/03/22 [v3.8.0](https://docs.dependencytrack.org/2020/03/22/v3.8.0/) Released
 * 2020/01/07 [v3.7.1](https://docs.dependencytrack.org/2020/01/07/v3.7.1/) Released
 * 2019/12/16 [v3.7.0](https://docs.dependencytrack.org/2019/12/16/v3.7.0/) Released
 * 2019/10/01 [v3.6.1](https://docs.dependencytrack.org/2019/10/01/v3.6.1/) Released
