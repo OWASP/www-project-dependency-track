@@ -1,6 +1,6 @@
 ---
 
-title: Integrations
+title: SBOM Format Support
 layout: null
 order: 3
 tab: true
@@ -8,6 +8,9 @@ tags: dependency-track dtrack
 
 ---
 
-## Integrations
+## Supported SBOM Formats
 
-![Integrations](https://raw.githubusercontent.com/DependencyTrack/dependency-track/master/docs/images/integrations.png)
+Dependency-Track supports the following Software Bill of Material formats:
+
+- [CycloneDX](https://cyclonedx.org/) v1.0 and higher
+- [SPDX](https://spdx.org/) v2.0 and higher (v2.2 and higher required for security use cases)
