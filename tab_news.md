@@ -2,7 +2,7 @@
 
 title: News
 layout: null
-order: 3
+order: 4
 tab: true
 tags: dependency-track dtrack
 
