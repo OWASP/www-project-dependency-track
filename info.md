@@ -1,16 +1,16 @@
-### Project Classification
+### Project Information
 
-![Flagship Project](/assets/images/common/owasp_level_flagship.svg "Flagship Project")
+* <i class="fas fa-flag" style="font-size: 1.3em; color:#2ADA08;"></i>
+  <span style="font-size: 1.3em;">Flagship Project</span>
 
-![Builders](/assets/images/common/owasp_builders.svg)
-![Defenders](assets/images/common/owasp_defenders.svg)
+#### Classification
 
-![Tool Project](/assets/images/common/owasp_tool_project.svg)
+* <i class="fas fa-tools" style="color:#233e81;"></i> Tool
 
-### Downloads
+#### Audience
 
-* [Download Dependency-Track](https://github.com/DependencyTrack/dependency-track/releases)
-* [Docker Pull Dependency-Track](https://hub.docker.com/r/owasp/dependency-track)
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
+* <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
 
 ### External Resources
 
@@ -20,10 +20,6 @@
 * [Twitter](https://twitter.com/dependencytrack)
 * [Website](https://dependencytrack.org/)
 * [YouTube](https://www.youtube.com/channel/UC8xdttysl3gNAQYvk1J9Efg)
-
-### Community Integrations
-* [dtrack-audit](https://github.com/ozonru/dtrack-audit)
-* [Maven plugin](https://github.com/pmckeown/dependency-track-maven-plugin)
 
 ### Licensing
 
