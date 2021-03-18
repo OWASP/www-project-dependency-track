@@ -10,8 +10,19 @@ tags: dependency-track dtrack
 
 ## Features
 
-* Tracks application, library, framework, operating system, container, firmware, and hardware components
+## Features
+
+* Component support for:
+  * Applications
+  * Libraries
+  * Frameworks
+  * Operating systems
+  * Containers
+  * Firmware
+  * Files
+  * Hardware
 * Tracks component usage across every application in an organizations portfolio
+* Quickly identify what is affected, and where
 * Identifies multiple forms of risk including
   * Components with known vulnerabilities
   * Out-of-date components
@@ -27,7 +38,7 @@ tags: dependency-track dtrack
 * Robust policy engine with support for global and per-project policies
   * Security risk and compliance
   * License risk and compliance
-  * Operational risk and compliance  
+  * Operational risk and compliance
 * Ecosystem agnostic with built-in repository support for:
   * Cargo (Rust)
   * Composer (PHP)
@@ -37,13 +48,20 @@ tags: dependency-track dtrack
   * NPM (Javascript)
   * NuGet (.NET)
   * Pypi (Python)
-  * More coming soon.  
+  * More coming soon.
+* Identifies APIs and external service components including:
+  * Service provider
+  * Endpoint URIs
+  * Data classification
+  * Directional flow of data
+  * Trust boundary traversal
+  * Authentication requirements
 * Includes a comprehensive auditing workflow for triaging results
 * Configurable notifications supporting Slack, Microsoft Teams, Webhooks, and Email
 * Supports standardized SPDX license ID’s and tracks license use by component
-* Supports importing [CycloneDX] and [SPDX] Software Bill of Materials (SBOM) formats
+* Supports importing [CycloneDX] (recommended) and [SPDX] Software Bill of Materials (SBOM) formats
 * Easy to read metrics for components, projects, and portfolio
-* Native support for Kenna Security, Fortify SSC, ThreadFix and DefectDojo
+* Native support for Kenna Security, Fortify SSC, ThreadFix, and DefectDojo
 * API-first design facilitates easy integration with other systems
 * API documentation available in OpenAPI format
 * OAuth 2.0 + OpenID Connect (OIDC) support for single sign-on (authN/authZ)
