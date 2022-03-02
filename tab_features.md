@@ -10,8 +10,6 @@ tags: dependency-track dtrack
 
 ## Features
 
-## Features
-
 * Component support for:
   * Applications
   * Libraries
@@ -31,7 +29,7 @@ tags: dependency-track dtrack
   * More coming soon...
 * Integrates with multiple sources of vulnerability intelligence including:
   * [National Vulnerability Database] (NVD)
-  * [NPM Public Advisories]
+  * [GitHub Advisories]
   * [Sonatype OSS Index]
   * [VulnDB] from [Risk Based Security]
   * More coming soon.
@@ -57,9 +55,9 @@ tags: dependency-track dtrack
   * Trust boundary traversal
   * Authentication requirements
 * Includes a comprehensive auditing workflow for triaging results
-* Configurable notifications supporting Slack, Microsoft Teams, Webhooks, and Email
+* Configurable notifications supporting Slack, Microsoft Teams, WebEx, Webhooks, and Email
 * Supports standardized SPDX license ID’s and tracks license use by component
-* Supports importing [CycloneDX] (recommended) and [SPDX] Software Bill of Materials (SBOM) formats
+* Supports importing [CycloneDX] Software Bill of Materials (SBOM)
 * Easy to read metrics for components, projects, and portfolio
 * Native support for Kenna Security, Fortify SSC, ThreadFix, and DefectDojo
 * API-first design facilitates easy integration with other systems
@@ -69,11 +67,10 @@ tags: dependency-track dtrack
 * Simple to install and configure. Get up and running in just a few minutes
 
 [National Vulnerability Database]: https://nvd.nist.gov
-[NPM Public Advisories]: https://www.npmjs.com/advisories
+[GitHub Advisories]: https://www.github.com/advisories
 [Sonatype OSS Index]: https://ossindex.sonatype.org
 [VulnDB]: https://vulndb.cyberriskanalytics.com
 [Risk Based Security]: https://www.riskbasedsecurity.com
 [Supply Chain Component Analysis]: https://www.owasp.org/index.php/Component_Analysis
 [Software Bill-of-Materials]: https://www.owasp.org/index.php/Component_Analysis#Software_Bill-of-Materials_.28SBOM.29
 [CycloneDX]: https://cyclonedx.org
-[SPDX]: https://spdx.org/

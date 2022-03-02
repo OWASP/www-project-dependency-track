@@ -10,6 +10,17 @@ tags: dependency-track dtrack
 
 ## News
 
+* 2022/02/18 [v4.4.1](https://docs.dependencytrack.org/2022/02/18/v4.4.1/) Released
+* 2022/02/17 [v4.4.0](https://docs.dependencytrack.org/2022/02/17/v4.4.0/) Released
+* 2021/09/20 [v4.3.6](https://docs.dependencytrack.org/2021/09/20/v4.3.6/) Released
+* 2021/09/20 [v4.3.5](https://docs.dependencytrack.org/2021/09/20/v4.3.5/) Released
+* 2021/08/31 [v4.3.4](https://docs.dependencytrack.org/2021/08/31/v4.3.4/) Released
+* 2021/08/20 [v4.3.3](https://docs.dependencytrack.org/2021/08/20/v4.3.3/) Released
+* 2021/08/07 [v4.3.2](https://docs.dependencytrack.org/2021/08/07/v4.3.2/) Released
+* 2021/08/03 [v4.3.1](https://docs.dependencytrack.org/2021/08/03/v4.3.1/) Released
+* 2021/08/02 [v4.3.0](https://docs.dependencytrack.org/2021/08/02/v4.3.0/) Released
+* 2021/05/07 [v4.2.2](https://docs.dependencytrack.org/2021/05/07/v4.2.2/) Released
+* 2021/03/20 [v4.2.1](https://docs.dependencytrack.org/2021/03/20/v4.2.1/) Released
 * 2021/03/17 [v4.2.0](https://docs.dependencytrack.org/2021/03/17/v4.2.0/) Released
 * 2021/02/09 [v4.1.0](https://docs.dependencytrack.org/2021/02/09/v4.1.0/) Released
 * 2021/01/12 [v4.0.1](https://docs.dependencytrack.org/2021/01/12/v4.0.1/) Released
