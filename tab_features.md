@@ -10,7 +10,9 @@ tags: dependency-track dtrack
 
 ## Features
 
-* Component support for:
+* Consumes and produces [CycloneDX] Software Bill of Materials (SBOM) 
+* Consumes and produces CycloneDX Vulnerability Exploitability Exchange (VEX)
+* Full-stack component support for:
   * Applications
   * Libraries
   * Frameworks
@@ -19,6 +21,7 @@ tags: dependency-track dtrack
   * Firmware
   * Files
   * Hardware
+  * Services
 * Tracks component usage across every application in an organizations portfolio
 * Quickly identify what is affected, and where
 * Identifies multiple forms of risk including
@@ -33,6 +36,8 @@ tags: dependency-track dtrack
   * [Sonatype OSS Index]
   * [VulnDB] from [Risk Based Security]
   * More coming soon.
+* Helps to prioritize mitigation by incorporating support for the [Exploit Prediction Scoring System (EPSS)]
+* Maintain a private vulnerability database of vulnerability components
 * Robust policy engine with support for global and per-project policies
   * Security risk and compliance
   * License risk and compliance
@@ -57,7 +62,6 @@ tags: dependency-track dtrack
 * Includes a comprehensive auditing workflow for triaging results
 * Configurable notifications supporting Slack, Microsoft Teams, WebEx, Webhooks, and Email
 * Supports standardized SPDX license ID’s and tracks license use by component
-* Supports importing [CycloneDX] Software Bill of Materials (SBOM)
 * Easy to read metrics for components, projects, and portfolio
 * Native support for Kenna Security, Fortify SSC, ThreadFix, and DefectDojo
 * API-first design facilitates easy integration with other systems
@@ -74,3 +78,4 @@ tags: dependency-track dtrack
 [Supply Chain Component Analysis]: https://www.owasp.org/index.php/Component_Analysis
 [Software Bill-of-Materials]: https://www.owasp.org/index.php/Component_Analysis#Software_Bill-of-Materials_.28SBOM.29
 [CycloneDX]: https://cyclonedx.org
+[Exploit Prediction Scoring System (EPSS)]: https://www.first.org/epss/
