@@ -1,0 +1,100 @@
+audience:
+  - builder
+  - defender
+community:
+  - name: proj-dependency-track
+    platform: slack
+    url: https://owasp.slack.com/archives/C6R3R32H4
+    description: "Dependency-Track is a supply chain component analysis platform that allows organizations to identify and reduce risk from the use of third-party\
+      \ and open source components.\n\n<https://dependencytrack.org/>"
+leaders:
+  - name: Steve Springett
+    email: steve.springett@owasp.org
+    github: stevespringett
+  - name: Niklas Düster
+    email: niklas.duester@owasp.org
+    github: nscuro
+level: 4
+license:
+  - Apache-2.0
+name: OWASP Dependency-Track
+pitch: Intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+repositories:
+  - name: www-project-dependency-track
+    url: https://github.com/OWASP/www-project-dependency-track
+    description: OWASP Foundation Web Repository
+  - name: .github
+    url: https://github.com/DependencyTrack/.github
+  - name: branding
+    url: https://github.com/DependencyTrack/branding
+  - name: client-go
+    url: https://github.com/DependencyTrack/client-go
+    description: Go client library for OWASP Dependency-Track
+  - name: community
+    url: https://github.com/DependencyTrack/community
+    description: Community resources for OWASP Dependency-Track
+  - name: cyclonedx-property-taxonomy
+    url: https://github.com/DependencyTrack/cyclonedx-property-taxonomy
+    description: CycloneDX Property Taxonomy for the dependency-track namespace
+  - name: dependency-track
+    url: https://github.com/DependencyTrack/dependency-track
+    description: Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply
+      chain.
+  - name: dependencytrack.org
+    url: https://github.com/DependencyTrack/dependencytrack.org
+    description: Public website for dependencytrack.org
+  - name: fortify-ssc-plugin
+    url: https://github.com/DependencyTrack/fortify-ssc-plugin
+    description: Plugin for Fortify Software Security Center (SSC) that can import Dependency-Track results
+  - name: frontend
+    url: https://github.com/DependencyTrack/frontend
+    description: Frontend UI for Dependency-Track
+  - name: gh-upload-sbom
+    url: https://github.com/DependencyTrack/gh-upload-sbom
+    description: Publishes BOMs to Dependency-Track from GitHub Actions
+  - name: helm-charts
+    url: https://github.com/DependencyTrack/helm-charts
+    description: Helm Charts for Dependency-Track
+  - name: hyades
+    url: https://github.com/DependencyTrack/hyades
+    description: Incubating project for decoupling responsibilities from Dependency-Track's monolithic API server into separate, scalable services.
+  - name: hyades-apiserver
+    url: https://github.com/DependencyTrack/hyades-apiserver
+    description: Fork of the Dependency-Track API server. It includes various changes necessary to work with Hyades.
+  - name: hyades-e2e
+    url: https://github.com/DependencyTrack/hyades-e2e
+    description: End-to-end tests for OWASP Dependency-Track
+  - name: hyades-frontend
+    url: https://github.com/DependencyTrack/hyades-frontend
+    description: Fork of the Dependency-Track frontend. It includes various changes necessary to work with Hyades.
+  - name: hyades-vuln-policy-examples
+    url: https://github.com/DependencyTrack/hyades-vuln-policy-examples
+    description: Example Hyades vulnerability policies
+  - name: jbang-catalog
+    url: https://github.com/DependencyTrack/jbang-catalog
+    description: JBang catalog of OWASP Dependency-Track
+  - name: public-api-java
+    url: https://github.com/DependencyTrack/public-api-java
+    description: Dependency-Track API Client for Java
+  - name: v3.8.0-v4.0.0-migration
+    url: https://github.com/DependencyTrack/v3.8.0-v4.0.0-migration
+    description: Migrates Dependency-Track v3.8.0 to v4.0.0
+  - name: vuln-db
+    url: https://github.com/DependencyTrack/vuln-db
+    description: Proof of concept for OWASP Dependency-Track's own, centralized vulnerability database.
+tags:
+  - dependency-track
+  - dtrack
+  - sca
+  - scrm
+  - sbom
+  - bom
+  - component-analysis
+  - supply-chain
+  - cpe
+  - purl
+  - license
+  - vulnerability
+  - impact
+type: tool
+website: https://owasp.org/www-project-dependency-track
