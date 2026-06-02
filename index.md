@@ -10,6 +10,8 @@ pitch: Intelligent Component Analysis platform that allows organizations to iden
 
 ---
 
+<img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=e47b9c6e-3116-4dce-8fd0-84fed5f8a8d7" alt="" width="1" height="1" style="display:none;" />
+
 For more details about Dependency-Track see the projects website at [dependencytrack.org](https://dependencytrack.org/)
 
 Dependency-Track is an intelligent [Component Analysis](https://owasp.org/www-community/Component_Analysis) platform that allows organizations to
